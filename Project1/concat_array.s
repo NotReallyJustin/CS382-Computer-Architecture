@@ -6,7 +6,7 @@
 .global concat_array
 
 /**
-   This converts an array into a set of readable strings.
+   This converts an array into a set of readable strings. 
    Input: X0 = Array pointer
    X1 = Length of Array
    X19, X20, X21, X22, X23, 
