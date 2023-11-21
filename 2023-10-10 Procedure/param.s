@@ -1,7 +1,7 @@
 .text
 .global _start          //STOP HERE! Read _start first
 
-_addition:
+_addition: 
 ADD X0, X0, X1          //Adds parameters X0 and X1, and chucks them into return
 RET
 
