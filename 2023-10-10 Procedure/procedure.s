@@ -4,7 +4,7 @@
 //Declare procedure/function proc()
 proc:
 MOV x0, 0
-MOV X1, 1
+MOV X1, 2
 B _return        //Jump to return point
 
 //If you want to start at a later point, you can just use _start label
